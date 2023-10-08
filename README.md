@@ -21,7 +21,7 @@ Players can choose levels based on their game progress and difficulty preference
 ### III.	ATTACK ENEMY
 Players will face various types of enemy zombies, including ordinary zombies, soldier zombies, BOSS zombies, and another Cleaner Anthony. Players need to use accurate shooting skills and tactical strategies to defeat enemies and protect their health. The game provides automatic aiming, reloading and other functions to help players better respond to enemy attacks in fierce battles.
 
-### IIII.	PALCE WEAPONS
+### IV.	PALCE WEAPONS
 Players can also place weapons to enhance defensive power. The game provides placeable weapon options such as mines and turrets. Players can place these weapons at key locations according to tactical needs to effectively prevent enemy attacks and protect their own positions. The location and strategy of placing weapons will have an important impact on the victory and defeat of the game. Players need to plan and use these resources reasonably to deal with the enemy's challenges.
 
 ## Note
